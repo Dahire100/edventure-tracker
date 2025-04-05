@@ -1,1 +1,1 @@
-# gamify-edventure-tracker
+# edventure-tracker
